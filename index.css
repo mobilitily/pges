@@ -1,0 +1,100 @@
+/*  Made By ❤  Nithya Yamasinghe  */
+
+
+/* Hope you Enjoy my code */
+
+/* Styles for teacher signup page*/
+
+body{
+    background: rgb(1, 0, 25);
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* Page Content Starts Here */
+
+h1{
+  background-color: rgb(1, 0, 25);
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  /* cursor: pointer; */
+  width: 100%;
+  opacity: 0.9;
+}
+h1:hover {
+  opacity: 1;
+  background: #e20074;
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+
+.container {
+  padding: 16px;
+  background-color: white;
+
+  max-width:370px;
+  margin:auto;
+
+
+}
+
+
+input[type=text], input[type=password], input[type=email] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus, input[type=email]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+a:hover{
+    color: rgb(218, 118, 81);
+}
+
+
+
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* Set a style for the submit button */
+.registerbtn {
+  background-color: rgb(1, 0, 25);
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.registerbtn:hover {
+  opacity: 1;
+  background: #e20074;
+}
+
+/* Add a blue text color to links */
+a {
+  color: #e20074;
+}
+
+/* Set a grey background color and center the text of the "sign in" section */
+.signin {
+  background-color: #f1f1f1;
+  text-align: center;
+}
+
+/* Page Content Ends Here */
