@@ -27,6 +27,17 @@ h1:hover {
   background: #e20074;
 }
 
+h2{
+  background-color: #e20074;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  /* cursor: pointer; */
+  width: 100%;
+  opacity: 0.9;
+
+}
 
 * {
   box-sizing: border-box;
